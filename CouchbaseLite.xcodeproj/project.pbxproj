@@ -5115,6 +5115,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 2791EA6620327DCB00BD813C /* Project_Debug_EE.xcconfig */;
 			buildSettings = {
+				SWIFT_VERSION = 5.0;
 			};
 			name = "Debug-EE";
 		};
@@ -5281,6 +5282,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 2791EA6720327E8B00BD813C /* Project_Release_EE.xcconfig */;
 			buildSettings = {
+				SWIFT_VERSION = 5.0;
 			};
 			name = "Release-EE";
 		};
@@ -6066,6 +6068,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 9378C5D91E26CC46001BB196 /* Project_Debug.xcconfig */;
 			buildSettings = {
+				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
 		};
@@ -6073,6 +6076,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 9378C5DA1E26CC46001BB196 /* Project_Release.xcconfig */;
 			buildSettings = {
+				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
 		};
